@@ -2217,6 +2217,7 @@ nav .main-menu li a {
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
   z-index: 9998;
+  display: none;
 }
 
 .theme-color-switch .checkbox {

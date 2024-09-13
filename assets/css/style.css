@@ -3815,6 +3815,14 @@ nav .main-menu li a {
   .service-details-content .service-details-image-2 {
     margin-bottom: 30px;
   }
+  .title_one{
+    margin-top: 100px;
+  }
+
+  .portfolio-area{
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
 }
 
 .service-details-content .service-details-image-2 img {

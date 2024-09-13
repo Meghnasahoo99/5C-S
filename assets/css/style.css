@@ -5827,7 +5827,7 @@ span.big-title {
     -webkit-transform: translate(0) scale(1) !important;
     -ms-transform: translate(0) scale(1) !important;
     transform: translate(0) scale(1) !important;
-    display: block;
+    display: none;
   }
 }
 
